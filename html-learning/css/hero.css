@@ -1,0 +1,41 @@
+.hero{
+    background-image: url(../imag/ipad.svg);
+    background-repeat: no-repeat; 
+    background-position: right top; 
+    background: url(../imag/ipad.svg) no-repeat right top;
+    height: 1000px;
+    position: absolute;
+    margin-top: 100px;
+    background-color: #FFFFFF;
+}
+
+.heroInner{
+    width: 540px;
+}
+
+.par{
+    font-size: 16px;
+    line-height: 26px;
+    color: #6F7CB2;
+}
+
+.littleArticles{
+    width: 240px;
+    display: flex;
+}
+
+.aPar , .aTitle{
+    width: 255px;
+    margin-right: 30px;
+}
+
+.hero{
+    display: flex;
+}
+
+.heroIllustration{
+    display: flex; 
+    margin-left: 95px;
+    height: 838px;
+    margin-top: 60px;
+}
